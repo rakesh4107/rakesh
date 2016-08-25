@@ -1,0 +1,9 @@
+•	propose time unmoving rely on legacy eclipse based IDE
+•	propose time and runtime in different env (e.g. OS, JVM, etc...)
+•	Coding is not an optional for integration process
+•	Full load up SDLC required (e.g. Maven, Github, Test Cases)
+•	Prescribe compute resource per project instead of sharing a pool of subscribed compute resource a.k.a vcore.  (e.g. Compute resource could be sitting idle 99% of the time for process / project that doesn't run often like once a month)
+•	HA and DR is not available for process that requires static IP
+•	No private agent support for integrating any endpoint behind the firewall
+•	Relatively slow / low runtime performance
+•	Native connector have lots of breadth but lack of depth
