@@ -1,0 +1,16 @@
+RAML, or the RESTful API Modeling Language, is a relatively new spec based on the YAML format—making it easily read by both humans and
+machines. But beyond creating a more easily understood spec (one that could be handed to the documentation team without worry),
+Uri Sarid, the creator of RAML, wanted to push beyond our current understandings and create a way to model our APIs before even writing
+one line of code.
+
+"Unfortunately, people are fairly good at short-term design, and usually awful at long-term design." – Roy Fielding, Creator of REST
+
+The challenge with APIs is that they are usually intended to last, hopefully for years. After all, an API requires a substantial 
+investment on the part of the developer, but also a substantial investment on part of the consumer, who relies on it and has to implement 
+it. Uri started thinking about how to solve the challenge of long-term design with APIs in 2009. He wanted a tool that would allow you, in
+just a few lines, to model (or design) your API and then quickly generate a prototype that developers all around the world could try out
+and give you feedback. In 2013, his dream became a reality when RAML 0.8 was released.
+
+Since then, interest in RAML has continued grow as companies large and small have realized the benefit of being able to design APIs in a
+human readable format, see exactly what their API will look like as they design it, and be able to create a live, functional example of 
+the API that developers can make real calls against with just the click of a button.
