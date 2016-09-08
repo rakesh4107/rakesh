@@ -1,0 +1,12 @@
+RAML is an abbreviation for "Peaceful API Demonstrating Morphological" and is a demonstrating morphological to describe REST APIs with a 
+justly humble and effortlessly comprehensible arrangement for together individuals and software organizations. This morphological permits
+you to describe possessions, approaches, limitations, replies, media kinds, and additional rudimentary HTTP mechanisms. Fundamentally it 
+is a non-proprietary and completely self-governing requirement founded on YAML and JSON. In additional arguments, it permits us to 
+inscribe the requirement of the APIs subsequent a normal.
+The pronounced benefit of applying a RAML API is that you focus completely on the "contract" that provides the endpoint; this allows you 
+to start generating the documentation, which, once ready, provides different generators to generate the basic service "scaffolding" and
+even services that return answers, simulated to start our testing.
+This methodology favors the testing process, providing us with the faultless situation to use TDD. Essentially, we describe the API, 
+inscribe tests to ingest this API and started building the actual implementation and necessary tests to validate both the requirement as 
+pronounced.
+
